@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently a third-year PhD student at [KU Leuven](https://liir.cs.kuleuven.be/) and NLP Researcher at [Contract.fit](www.contract.fit)
 - 🌱 My research interests include uncertainty in Deep Learning, Document AI, Structured Prediction, and Calibration.
-- 📫 You can reach me via [outlook](mailto:firstname@contract.fit).
+- 📫 Best to reach me via [company e-mail](mailto:firstname@contract.fit).
 
 [![Jordy Van Landeghem's github stats](https://github-readme-stats.vercel.app/api?username=Jordy-VL&hide=issues&show_icons=true)](https://github.com/Jordy-VL)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordy-VL&layout=compact)](https://github.com/Jordy-VL)
