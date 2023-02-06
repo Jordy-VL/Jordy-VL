@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 🌱 My research interests include uncertainty in Deep Learning, Document AI, Structured Prediction, and Calibration.
 - 📫 Best to reach me via [company e-mail](mailto:firstname@contract.fit).
 
-[![Jordy Van Landeghem's github stats](https://github-readme-stats.vercel.app/api?username=Jordy-VL&hide=issues&show_icons=true)](https://github.com/Jordy-VL)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordy-VL&layout=compact)](https://github.com/Jordy-VL)
+[![Jordy Van Landeghem's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jordy-VL&hide=issues&show_icons=true)](https://github.com/Jordy-VL)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jordy-VL&layout=compact&hide=jupyter%20notebook)](https://github.com/Jordy-VL)
