@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Jordy-VL)
 
 
-- 🔭 I'm currently a third-year PhD student at [KU Leuven](https://liir.cs.kuleuven.be/) and AI/NLP Researcher at [Contract.fit](www.contract.fit)
+- 🔭 I'm currently a final year PhD student at [KU Leuven](https://liir.cs.kuleuven.be/) and AI Researcher at [Contract.fit](www.contract.fit)
 - 🌱 My research interests include uncertainty in Deep Learning, Document AI, Structured Prediction, and Calibration.
 - 📫 Best to reach me via [company e-mail](mailto:firstname@contract.fit).
 
