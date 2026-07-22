@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Jordy-VL)
 
 
-- 🔭 I'm currently a final year PhD student at [KU Leuven](https://liir.cs.kuleuven.be/) and AI Researcher at [Contract.fit](www.contract.fit)
-- 🌱 My research interests include uncertainty in Deep Learning, Document AI, Structured Prediction, and Calibration.
-- 📫 Best to reach me via [company e-mail](mailto:firstname@contract.fit).
+- 🔭 AI/ML researcher & engineer — PhD KU Leuven (2024), now building agentic document AI systems via [Probably Approximately Human](https://jvlinsta.github.io/portfolio/) BV
+- 🌱 Research: Document AI · Agentic Systems · LLM Evaluation & Benchmarking · Uncertainty Quantification · Inference Efficiency · NLP
+- 🏆 Creator of the [DUDE benchmark](https://arxiv.org/abs/2305.08455) (ICCV 2023, 170 citations) · ICML 2026 Oral (MADQA, top 0.5%)
+- 💬 Ask me about document understanding, agentic pipelines, eval frameworks, or calibration
+- 📫 [jordy.vlan@gmail.com](mailto:jordy.vlan@gmail.com) · [portfolio](https://jvlinsta.github.io/portfolio/)
 
 [![Jordy Van Landeghem's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jordy-VL&hide=issues&show_icons=true)](https://github.com/Jordy-VL)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jordy-VL&layout=compact&hide=jupyter%20notebook)](https://github.com/Jordy-VL)
